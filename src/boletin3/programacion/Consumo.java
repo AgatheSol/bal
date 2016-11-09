@@ -5,7 +5,7 @@ package boletin3.programacion;
 public class Consumo {
     //declaro atributos
     //yo tb
-    private float kilometros,litrosconsumidos,velocidadMedia,precioGasolina;
+    private float kilometros,litrosconsumidos,velocidadMedia,precioGasolina,fuego;
 //    //constructor por defecto
     //wewewe
     public Consumo(){

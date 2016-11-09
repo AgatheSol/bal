@@ -7,6 +7,7 @@ public class Consumo {
     //yo tb
     private float kilometros,litrosconsumidos,velocidadMedia,precioGasolina;
 //    //constructor por defecto
+    //wewewe
     public Consumo(){
         kilometros = 0;
         litrosconsumidos = 0;
